@@ -1,0 +1,6 @@
+{
+  "name": "CRM Kanban Supabase",
+  "description": "CRM com quadro Kanban para gestão manual de tarefas e leads com status Não iniciado, Em Andamento e Finalizado, persistido com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
